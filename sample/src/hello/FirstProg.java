@@ -4,7 +4,7 @@ public class FirstProg {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("My first program1");
+System.out.println("My first program2");
 	}
 
 }
